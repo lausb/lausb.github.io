@@ -1,0 +1,836 @@
+% This file was created with JabRef 2.10.
+% Encoding: ASCII
+
+
+@Article{MR2674092,
+  Title                    = {On superlinear {$p(x)$}-{L}aplacian equations in {${\bf
+ R}^N$}},
+  Author                   = {Alves, Claudianor O. and Liu, Shibo},
+  Journal                  = {Nonlinear Anal.},
+  Year                     = {2010},
+  Number                   = {8},
+  Pages                    = {2566--2579},
+  Volume                   = {73},
+
+  Doi                      = {10.1016/j.na.2010.06.033},
+  Fjournal                 = {Nonlinear Analysis. Theory, Methods \& Applications. An
+ International Multidisciplinary Journal},
+  ISSN                     = {0362-546X},
+  Mrclass                  = {35J60 (35J92 35R01 47J30 58E05)},
+  Mrnumber                 = {2674092},
+  Mrreviewer               = {Nguyen Hoang Loc},
+  Owner                    = {sliu},
+  Timestamp                = {2022.10.21},
+  Url                      = {https://doi.org/10.1016/j.na.2010.06.033}
+}
+
+@Article{MR3303004,
+  Title                    = {Standing waves with large frequency for 4-superlinear
+ {S}chr\"{o}dinger-{P}oisson systems},
+  Author                   = {Chen, Huayang and Liu, Shibo},
+  Journal                  = {Ann. Mat. Pura Appl. (4)},
+  Year                     = {2015},
+  Number                   = {1},
+  Pages                    = {43--53},
+  Volume                   = {194},
+
+  __markedentry            = {[sliu:1]},
+  Doi                      = {10.1007/s10231-013-0363-5},
+  Fjournal                 = {Annali di Matematica Pura ed Applicata. Series IV},
+  ISSN                     = {0373-3114},
+  Mrclass                  = {35J47 (35C08 35J50 35J91 35Q55 58E05)},
+  Mrnumber                 = {3303004},
+  Owner                    = {sliu},
+  Timestamp                = {2022.10.21},
+  Url                      = {https://doi.org/10.1007/s10231-013-0363-5}
+}
+
+@Article{MR3366792,
+  Title                    = {Standing waves for 4-superlinear {S}chr\"{o}dinger-{K}irchhoff
+ equations},
+  Author                   = {Chen, Shaowei and Liu, Shibo},
+  Journal                  = {Math. Methods Appl. Sci.},
+  Year                     = {2015},
+  Number                   = {11},
+  Pages                    = {2185--2193},
+  Volume                   = {38},
+
+  Doi                      = {10.1002/mma.3212},
+  Fjournal                 = {Mathematical Methods in the Applied Sciences},
+  ISSN                     = {0170-4214},
+  Mrclass                  = {35J60 (35A16 35J20 35L70)},
+  Mrnumber                 = {3366792},
+  Owner                    = {sliu},
+  Timestamp                = {2022.10.21},
+  Url                      = {https://doi.org/10.1002/mma.3212}
+}
+
+@Article{MR2472927,
+  Title                    = {Nontrivial solutions of superlinear {$p$}-{L}aplacian
+ equations},
+  Author                   = {Fang, Fei and Liu, Shibo},
+  Journal                  = {J. Math. Anal. Appl.},
+  Year                     = {2009},
+  Number                   = {1},
+  Pages                    = {138--146},
+  Volume                   = {351},
+
+  Doi                      = {10.1016/j.jmaa.2008.09.064},
+  Fjournal                 = {Journal of Mathematical Analysis and Applications},
+  ISSN                     = {0022-247X},
+  Mrclass                  = {35J60 (35J25 47J30 58E05)},
+  Mrnumber                 = {2472927},
+  Owner                    = {sliu},
+  Timestamp                = {2022.10.21},
+  Url                      = {https://doi.org/10.1016/j.jmaa.2008.09.064}
+}
+
+@Article{MR2459022,
+  Title                    = {Multiple periodic solutions for nonlinear difference
+ equations},
+  Author                   = {Fang, Fei and Wang, Nan and Liu, Shibo},
+  Journal                  = {J. Math. Study},
+  Year                     = {2008},
+  Number                   = {3},
+  Pages                    = {234--239},
+  Volume                   = {41},
+
+  Fjournal                 = {Journal of Mathematical Study. Shuxue Yanjiu},
+  ISSN                     = {1006-6837},
+  Mrclass                  = {39A11 (39A10)},
+  Mrnumber                 = {2459022},
+  Owner                    = {sliu},
+  Timestamp                = {2022.10.21}
+}
+
+@Article{MR3916051,
+  Title                    = {Multiple positive solutions of a class of
+ {S}chr\"{o}dinger-{P}oisson equation involving indefinite
+ nonlinearity in {$\Bbb{R}^3$}},
+  Author                   = {Gan, Wenbin and Liu, Shibo},
+  Journal                  = {Appl. Math. Lett.},
+  Year                     = {2019},
+  Pages                    = {111--116},
+  Volume                   = {93},
+
+  Doi                      = {10.1016/j.aml.2019.01.032},
+  Fjournal                 = {Applied Mathematics Letters. An International Journal of Rapid
+ Publication},
+  ISSN                     = {0893-9659},
+  Mrclass                  = {35J47 (35B09 35J50 35J91)},
+  Mrnumber                 = {3916051},
+  Owner                    = {sliu},
+  Timestamp                = {2022.10.21},
+  Url                      = {https://doi.org/10.1016/j.aml.2019.01.032}
+}
+
+@Article{MR3483598,
+  Title                    = {Existence results for fractional {$p$}-{L}aplacian problems
+ via {M}orse theory},
+  Author                   = {Iannizzotto, Antonio and Liu, Shibo and Perera, Kanishka and
+ Squassina, Marco},
+  Journal                  = {Adv. Calc. Var.},
+  Year                     = {2016},
+  Number                   = {2},
+  Pages                    = {101--125},
+  Volume                   = {9},
+
+  __markedentry            = {[sliu:1]},
+  Doi                      = {10.1515/acv-2014-0024},
+  Fjournal                 = {Advances in Calculus of Variations},
+  ISSN                     = {1864-8258},
+  Mrclass                  = {35R11 (26A33 35P15 35P30)},
+  Mrnumber                 = {3483598},
+  Owner                    = {sliu},
+  Timestamp                = {2022.10.21},
+  Url                      = {https://doi.org/10.1515/acv-2014-0024}
+}
+
+@Article{MR4319784,
+  Title                    = {Multiple solutions for {S}chr\"{o}dinger-{K}irchhoff equations
+ with indefinite potential},
+  Author                   = {Jiang, Shuai and Liu, Shibo},
+  Journal                  = {Appl. Math. Lett.},
+  Year                     = {2022},
+  Pages                    = {Paper No. 107672, 9},
+  Volume                   = {124},
+
+  __markedentry            = {[sliu:1]},
+  Doi                      = {10.1016/j.aml.2021.107672},
+  Fjournal                 = {Applied Mathematics Letters. An International Journal of Rapid
+ Publication},
+  ISSN                     = {0893-9659},
+  Mrclass                  = {35Q55},
+  Mrnumber                 = {4319784},
+  Owner                    = {sliu},
+  Timestamp                = {2022.10.21},
+  Url                      = {https://doi.org/10.1016/j.aml.2021.107672}
+}
+
+@Article{MR3016452,
+  Title                    = {Homology of saddle point reduction and applications to
+ resonant elliptic systems},
+  Author                   = {Li, Chong and Liu, Shibo},
+  Journal                  = {Nonlinear Anal.},
+  Year                     = {2013},
+  Pages                    = {236--246},
+  Volume                   = {81},
+
+  Doi                      = {10.1016/j.na.2012.11.007},
+  Fjournal                 = {Nonlinear Analysis. Theory, Methods \& Applications. An
+ International Multidisciplinary Journal},
+  ISSN                     = {0362-546X},
+  Mrclass                  = {58E05 (35J57 35J91)},
+  Mrnumber                 = {3016452},
+  Mrreviewer               = {Youssef Jabri},
+  Owner                    = {sliu},
+  Timestamp                = {2022.10.21},
+  Url                      = {https://doi.org/10.1016/j.na.2012.11.007}
+}
+
+@Article{MR2018050,
+  Title                    = {Critical groups at infinity for asymptotically quadratic
+ functionals},
+  Author                   = {Liang, Zhi-gang and Liu, Shi-bo},
+  Journal                  = {Acta Anal. Funct. Appl.},
+  Year                     = {2003},
+  Number                   = {3},
+  Pages                    = {213--216},
+  Volume                   = {5},
+
+  Fjournal                 = {Acta Analysis Functionalis Applicata. AAFA. Yingyong
+ Fanhanfenxi Xuebao},
+  ISSN                     = {1009-1327},
+  Mrclass                  = {58E05},
+  Mrnumber                 = {2018050},
+  Mrreviewer               = {Dumitru Motreanu},
+  Owner                    = {sliu},
+  Timestamp                = {2022.10.21}
+}
+
+@Article{MR2143739,
+  Title                    = {The existence of multiple solutions to quasilinear elliptic
+ equations},
+  Author                   = {Liu, Jiaquan and Liu, Shibo},
+  Journal                  = {Bull. London Math. Soc.},
+  Year                     = {2005},
+  Number                   = {4},
+  Pages                    = {592--600},
+  Volume                   = {37},
+
+  Doi                      = {10.1112/S0024609304004023},
+  Fjournal                 = {The Bulletin of the London Mathematical Society},
+  ISSN                     = {0024-6093},
+  Mrclass                  = {35J60 (35D05 47J30 58E05)},
+  Mrnumber                 = {2143739},
+  Mrreviewer               = {Abdelhafid Mokrane},
+  Owner                    = {sliu},
+  Timestamp                = {2022.10.21},
+  Url                      = {https://doi.org/10.1112/S0024609304004023}
+}
+
+@Article{MR3882064,
+  Title                    = {On the surjectivity of smooth maps into {E}uclidean spaces and
+ the fundamental theorem of algebra},
+  Author                   = {Liu, Peng and Liu, Shibo},
+  Journal                  = {Amer. Math. Monthly},
+  Year                     = {2018},
+  Number                   = {10},
+  Pages                    = {941--943},
+  Volume                   = {125},
+
+  Doi                      = {10.1080/00029890.2018.1521241},
+  Fjournal                 = {American Mathematical Monthly},
+  ISSN                     = {0002-9890},
+  Mrclass                  = {30C15 (57R70 58C25)},
+  Mrnumber                 = {3882064},
+  Mrreviewer               = {Vania Hadzijski},
+  Owner                    = {sliu},
+  Timestamp                = {2022.10.21},
+  Url                      = {https://doi.org/10.1080/00029890.2018.1521241}
+}
+
+@Article{MR4306780,
+  Title                    = {On quasilinear elliptic problems with finite or infinite
+ potential wells},
+  Author                   = {Liu, Shibo},
+  Journal                  = {Open Math.},
+  Year                     = {2021},
+  Number                   = {1},
+  Pages                    = {971--989},
+  Volume                   = {19},
+
+  __markedentry            = {[sliu:1]},
+  Doi                      = {10.1515/math-2021-0053},
+  Fjournal                 = {Open Mathematics},
+  Mrclass                  = {35J20 (35J60 35J70)},
+  Mrnumber                 = {4306780},
+  Mrreviewer               = {Mihai Mih\u{a}ilescu},
+  Owner                    = {sliu},
+  Timestamp                = {2022.10.21},
+  Url                      = {https://doi.org/10.1515/math-2021-0053}
+}
+
+@Article{MR2957647,
+  Title                    = {On superlinear {S}chr\"{o}dinger equations with periodic
+ potential},
+  Author                   = {Liu, Shibo},
+  Journal                  = {Calc. Var. Partial Differential Equations},
+  Year                     = {2012},
+  Number                   = {1-2},
+  Pages                    = {1--9},
+  Volume                   = {45},
+
+  __markedentry            = {[sliu:1]},
+  Doi                      = {10.1007/s00526-011-0447-2},
+  Fjournal                 = {Calculus of Variations and Partial Differential Equations},
+  ISSN                     = {0944-2669},
+  Mrclass                  = {35J91 (35B10)},
+  Mrnumber                 = {2957647},
+  Mrreviewer               = {Shengbing Deng},
+  Owner                    = {sliu},
+  Timestamp                = {2022.10.21},
+  Url                      = {https://doi.org/10.1007/s00526-011-0447-2}
+}
+
+@Article{MR2846501,
+  Title                    = {Multiple periodic solutions for non-linear difference systems
+ involving the {$p$}-{L}aplacian},
+  Author                   = {Liu, Shibo},
+  Journal                  = {J. Difference Equ. Appl.},
+  Year                     = {2011},
+  Number                   = {11},
+  Pages                    = {1591--1598},
+  Volume                   = {17},
+
+  Doi                      = {10.1080/10236191003730480},
+  Fjournal                 = {Journal of Difference Equations and Applications},
+  ISSN                     = {1023-6198},
+  Mrclass                  = {39A23},
+  Mrnumber                 = {2846501},
+  Mrreviewer               = {Ewa L. Schmeidel},
+  Owner                    = {sliu},
+  Timestamp                = {2022.10.21},
+  Url                      = {https://doi.org/10.1080/10236191003730480}
+}
+
+@Article{MR2567281,
+  Title                    = {On ground states of superlinear {$p$}-{L}aplacian equations in
+ {${\bf R}^N$}},
+  Author                   = {Liu, Shibo},
+  Journal                  = {J. Math. Anal. Appl.},
+  Year                     = {2010},
+  Number                   = {1},
+  Pages                    = {48--58},
+  Volume                   = {361},
+
+  Doi                      = {10.1016/j.jmaa.2009.09.016},
+  Fjournal                 = {Journal of Mathematical Analysis and Applications},
+  ISSN                     = {0022-247X},
+  Mrclass                  = {35J92 (35J20)},
+  Mrnumber                 = {2567281},
+  Owner                    = {sliu},
+  Timestamp                = {2022.10.21},
+  Url                      = {https://doi.org/10.1016/j.jmaa.2009.09.016}
+}
+
+@Article{MR2653749,
+  Title                    = {On superlinear problems without the {A}mbrosetti and
+ {R}abinowitz condition},
+  Author                   = {Liu, Shibo},
+  Journal                  = {Nonlinear Anal.},
+  Year                     = {2010},
+  Number                   = {3},
+  Pages                    = {788--795},
+  Volume                   = {73},
+
+  Doi                      = {10.1016/j.na.2010.04.016},
+  Fjournal                 = {Nonlinear Analysis. Theory, Methods \& Applications. An
+ International Multidisciplinary Journal},
+  ISSN                     = {0362-546X},
+  Mrclass                  = {35J60 (58E05)},
+  Mrnumber                 = {2653749},
+  Owner                    = {sliu},
+  Timestamp                = {2022.10.21},
+  Url                      = {https://doi.org/10.1016/j.na.2010.04.016}
+}
+
+@Article{MR2767062,
+  Title                    = {On the regularity of operators near a regular operator},
+  Author                   = {Liu, Shibo},
+  Journal                  = {Amer. Math. Monthly},
+  Year                     = {2010},
+  Number                   = {10},
+  Pages                    = {927--928},
+  Volume                   = {117},
+
+  Doi                      = {10.4169/000298910X523425},
+  Fjournal                 = {American Mathematical Monthly},
+  ISSN                     = {0002-9890},
+  Mrclass                  = {47A05 (47A58)},
+  Mrnumber                 = {2767062},
+  Owner                    = {sliu},
+  Timestamp                = {2022.10.21},
+  Url                      = {https://doi.org/10.4169/000298910X523425}
+}
+
+@Article{MR2492134,
+  Title                    = {Nontrivial solutions for elliptic resonant problems},
+  Author                   = {Liu, Shibo},
+  Journal                  = {Nonlinear Anal.},
+  Year                     = {2009},
+  Number                   = {5},
+  Pages                    = {1965--1974},
+  Volume                   = {70},
+
+  Doi                      = {10.1016/j.na.2008.02.095},
+  Fjournal                 = {Nonlinear Analysis. Theory, Methods \& Applications. An
+ International Multidisciplinary Journal},
+  ISSN                     = {0362-546X},
+  Mrclass                  = {35J60 (35J25 58E05)},
+  Mrnumber                 = {2492134},
+  Owner                    = {sliu},
+  Timestamp                = {2022.10.21},
+  Url                      = {https://doi.org/10.1016/j.na.2008.02.095}
+}
+
+@Article{MR2488059,
+  Title                    = {Multiple solutions for elliptic resonant problems},
+  Author                   = {Liu, Shibo},
+  Journal                  = {Proc. Roy. Soc. Edinburgh Sect. A},
+  Year                     = {2008},
+  Number                   = {6},
+  Pages                    = {1281--1289},
+  Volume                   = {138},
+
+  Doi                      = {10.1017/S0308210507000443},
+  Fjournal                 = {Proceedings of the Royal Society of Edinburgh. Section A.
+ Mathematics},
+  ISSN                     = {0308-2105},
+  Mrclass                  = {35J65 (35J20 35J25 47J30 58E05)},
+  Mrnumber                 = {2488059},
+  Mrreviewer               = {Nils Ackermann},
+  Owner                    = {sliu},
+  Timestamp                = {2022.10.21},
+  Url                      = {https://doi.org/10.1017/S0308210507000443}
+}
+
+@Article{MR2348521,
+  Title                    = {Remarks on multiple solutions for elliptic resonant problems},
+  Author                   = {Liu, Shibo},
+  Journal                  = {J. Math. Anal. Appl.},
+  Year                     = {2007},
+  Number                   = {1},
+  Pages                    = {498--505},
+  Volume                   = {336},
+
+  Doi                      = {10.1016/j.jmaa.2007.01.051},
+  Fjournal                 = {Journal of Mathematical Analysis and Applications},
+  ISSN                     = {0022-247X},
+  Mrclass                  = {35J60 (35J25 47J15 47J30 58E05)},
+  Mrnumber                 = {2348521},
+  Owner                    = {sliu},
+  Timestamp                = {2022.10.21},
+  Url                      = {https://doi.org/10.1016/j.jmaa.2007.01.051}
+}
+
+@Article{MR2201759,
+  Title                    = {Multiple solutions for coercive {$p$}-{L}aplacian equations},
+  Author                   = {Liu, Shibo},
+  Journal                  = {J. Math. Anal. Appl.},
+  Year                     = {2006},
+  Number                   = {1},
+  Pages                    = {229--236},
+  Volume                   = {316},
+
+  Doi                      = {10.1016/j.jmaa.2005.04.034},
+  Fjournal                 = {Journal of Mathematical Analysis and Applications},
+  ISSN                     = {0022-247X},
+  Mrclass                  = {35J60 (35J20 35J25 47J30 58E05)},
+  Mrnumber                 = {2201759},
+  Mrreviewer               = {Caisheng Chen},
+  Owner                    = {sliu},
+  Timestamp                = {2022.10.21},
+  Url                      = {https://doi.org/10.1016/j.jmaa.2005.04.034}
+}
+
+@Article{MR1863785,
+  Title                    = {Existence of solutions to a superlinear {$p$}-{L}aplacian
+ equation},
+  Author                   = {Liu, Shibo},
+  Journal                  = {Electron. J. Differential Equations},
+  Year                     = {2001},
+  Pages                    = {No. 66, 6},
+
+  Fjournal                 = {Electronic Journal of Differential Equations},
+  Mrclass                  = {35J65 (35J60)},
+  Mrnumber                 = {1863785},
+  Owner                    = {sliu},
+  Timestamp                = {2022.10.21},
+  Url                      = {https://ejde.math.txstate.edu/Volumes/2001/66/liu.pdf}
+}
+
+@Article{MR2011981,
+  Title                    = {Existence of solutions for asymptotically `linear'
+ {$p$}-{L}aplacian equations},
+  Author                   = {Liu, Shibo and Li, Shujie},
+  Journal                  = {Bull. London Math. Soc.},
+  Year                     = {2004},
+  Number                   = {1},
+  Pages                    = {81--87},
+  Volume                   = {36},
+
+  Doi                      = {10.1112/S0024609303002546},
+  Fjournal                 = {The Bulletin of the London Mathematical Society},
+  ISSN                     = {0024-6093},
+  Mrclass                  = {35J60 (35J20 47J30 58E05)},
+  Mrnumber                 = {2011981},
+  Mrreviewer               = {Alan V. Lair},
+  Owner                    = {sliu},
+  Timestamp                = {2022.10.21},
+  Url                      = {https://doi.org/10.1112/S0024609303002546}
+}
+
+@Article{MR1971024,
+  Title                    = {An elliptic equation with concave and convex nonlinearities},
+  Author                   = {Liu, Shibo and Li, Shujie},
+  Journal                  = {Nonlinear Anal.},
+  Year                     = {2003},
+  Number                   = {6},
+  Pages                    = {723--731},
+  Volume                   = {53},
+
+  Doi                      = {10.1016/S0362-546X(03)00020-8},
+  Fjournal                 = {Nonlinear Analysis. Theory, Methods \& Applications. An
+ International Multidisciplinary Journal},
+  ISSN                     = {0362-546X},
+  Mrclass                  = {35J60 (47J30)},
+  Mrnumber                 = {1971024},
+  Owner                    = {sliu},
+  Timestamp                = {2022.10.21},
+  Url                      = {https://doi.org/10.1016/S0362-546X(03)00020-8}
+}
+
+@Article{MR2017717,
+  Title                    = {Critical groups at infinity, saddle point reduction and
+ elliptic resonant problems},
+  Author                   = {Liu, Shibo and Li, Shujie},
+  Journal                  = {Commun. Contemp. Math.},
+  Year                     = {2003},
+  Number                   = {5},
+  Pages                    = {761--773},
+  Volume                   = {5},
+
+  __markedentry            = {[sliu:1]},
+  Doi                      = {10.1142/S0219199703001129},
+  Fjournal                 = {Communications in Contemporary Mathematics},
+  ISSN                     = {0219-1997},
+  Mrclass                  = {58E05 (35J20 35J60)},
+  Mrnumber                 = {2017717},
+  Mrreviewer               = {Marco Squassina},
+  Owner                    = {sliu},
+  Timestamp                = {2022.10.21},
+  Url                      = {https://doi.org/10.1142/S0219199703001129}
+}
+
+@Article{MR2562316,
+  Title                    = {Multiplicity results for {$p$}-biharmonic problems via {M}orse
+ theory},
+  Author                   = {Liu, Shibo and Medeiros, Everaldo and Perera, Kanishka},
+  Journal                  = {Commun. Appl. Anal.},
+  Year                     = {2009},
+  Number                   = {3},
+  Pages                    = {447--455},
+  Volume                   = {13},
+
+  Fjournal                 = {Communications in Applied Analysis. An International Journal
+ for Theory and Applications},
+  ISSN                     = {1083-2564},
+  Mrclass                  = {35J40 (35J91 47J30)},
+  Mrnumber                 = {2562316},
+  Owner                    = {sliu},
+  Timestamp                = {2022.10.21}
+}
+
+@Article{MR4081540,
+  Title                    = {On the {S}chr\"{o}dinger-{P}oisson system with indefinite
+ potential and 3-sublinear nonlinearity},
+  Author                   = {Liu, Shibo and Mosconi, Sunra},
+  Journal                  = {J. Differential Equations},
+  Year                     = {2020},
+  Number                   = {1},
+  Pages                    = {689--712},
+  Volume                   = {269},
+
+  __markedentry            = {[sliu:1]},
+  Doi                      = {10.1016/j.jde.2019.12.023},
+  Fjournal                 = {Journal of Differential Equations},
+  ISSN                     = {0022-0396},
+  Mrclass                  = {35J47 (35J50 35J60 35Q55 58E05)},
+  Mrnumber                 = {4081540},
+  Owner                    = {sliu},
+  Timestamp                = {2022.10.21},
+  Url                      = {https://doi.org/10.1016/j.jde.2019.12.023}
+}
+
+@Article{MR3053555,
+  Title                    = {Generalized saddle point theorem and asymptotically linear
+ problems with periodic potential},
+  Author                   = {Liu, Shibo and Shen, Zupei},
+  Journal                  = {Nonlinear Anal.},
+  Year                     = {2013},
+  Pages                    = {52--57},
+  Volume                   = {86},
+
+  Doi                      = {10.1016/j.na.2013.03.005},
+  Fjournal                 = {Nonlinear Analysis. Theory, Methods \& Applications. An
+ International Multidisciplinary Journal},
+  ISSN                     = {0362-546X},
+  Mrclass                  = {35J91 (35B10 35B38 35J20 58E05)},
+  Mrnumber                 = {3053555},
+  Owner                    = {sliu},
+  Timestamp                = {2022.10.21},
+  Url                      = {https://doi.org/10.1016/j.na.2013.03.005}
+}
+
+@Article{MR1896174,
+  Title                    = {On the existence of solutions to a fourth-order quasilinear
+ resonant problem},
+  Author                   = {Liu, Shibo and Squassina, Marco},
+  Journal                  = {Abstr. Appl. Anal.},
+  Year                     = {2002},
+  Number                   = {3},
+  Pages                    = {125--133},
+  Volume                   = {7},
+
+  Doi                      = {10.1155/S1085337502000805},
+  Fjournal                 = {Abstract and Applied Analysis},
+  ISSN                     = {1085-3375},
+  Mrclass                  = {35J60 (31B30 35J25 47J30 58E05)},
+  Mrnumber                 = {1896174},
+  Mrreviewer               = {Nikolaos M. Stavrakakis},
+  Owner                    = {sliu},
+  Timestamp                = {2022.10.21},
+  Url                      = {https://doi.org/10.1155/S1085337502000805}
+}
+
+@Article{MR3656292,
+  Title                    = {Standing waves for 4-superlinear {S}chr\"{o}dinger-{P}oisson
+ systems with indefinite potentials},
+  Author                   = {Liu, Shibo and Wu, Yue},
+  Journal                  = {Bull. Lond. Math. Soc.},
+  Year                     = {2017},
+  Number                   = {2},
+  Pages                    = {226--234},
+  Volume                   = {49},
+
+  __markedentry            = {[sliu:1]},
+  Doi                      = {10.1112/blms.12019},
+  Fjournal                 = {Bulletin of the London Mathematical Society},
+  ISSN                     = {0024-6093},
+  Mrclass                  = {35J47 (35A16 35J91 58E05)},
+  Mrnumber                 = {3656292},
+  Mrreviewer               = {Sara Barile},
+  Owner                    = {sliu},
+  Timestamp                = {2022.10.21},
+  Url                      = {https://doi.org/10.1112/blms.12019}
+}
+
+@Article{MR3711061,
+  Title                    = {On the change of variables formula for multiple integrals},
+  Author                   = {Liu, Shibo and Zhang, Yashan},
+  Journal                  = {J. Math. Study},
+  Year                     = {2017},
+  Number                   = {3},
+  Pages                    = {268--276},
+  Volume                   = {50},
+
+  Doi                      = {10.4208/jms.v50n3.17.04},
+  Fjournal                 = {Journal of Mathematical Study. Shuxue Yanjiu},
+  ISSN                     = {1006-6837},
+  Mrclass                  = {26B15 (26B20)},
+  Mrnumber                 = {3711061},
+  Mrreviewer               = {G. A. Heuer},
+  Owner                    = {sliu},
+  Timestamp                = {2022.10.21},
+  Url                      = {https://doi.org/10.4208/jms.v50n3.17.04}
+}
+
+@Article{MR3945610,
+  Title                    = {Solutions for fourth order elliptic equations on {$\Bbb{R}^N$}
+ involving {$u\Delta(u^2)$} and sign-changing potentials},
+  Author                   = {Liu, Shibo and Zhao, Zhihan},
+  Journal                  = {J. Differential Equations},
+  Year                     = {2019},
+  Number                   = {3},
+  Pages                    = {1581--1599},
+  Volume                   = {267},
+
+  __markedentry            = {[sliu:1]},
+  Doi                      = {10.1016/j.jde.2019.02.017},
+  Fjournal                 = {Journal of Differential Equations},
+  ISSN                     = {0022-0396},
+  Mrclass                  = {35J30 (35J20 35J62 58E05)},
+  Mrnumber                 = {3945610},
+  Owner                    = {sliu},
+  Timestamp                = {2022.10.21},
+  Url                      = {https://doi.org/10.1016/j.jde.2019.02.017}
+}
+
+@Article{MR3843290,
+  Title                    = {Standing waves for quasilinear {S}chr\"{o}dinger equations with
+ indefinite potentials},
+  Author                   = {Liu, Shibo and Zhou, Jian},
+  Journal                  = {J. Differential Equations},
+  Year                     = {2018},
+  Number                   = {9},
+  Pages                    = {3970--3987},
+  Volume                   = {265},
+
+  __markedentry            = {[sliu:1]},
+  Doi                      = {10.1016/j.jde.2018.05.024},
+  Fjournal                 = {Journal of Differential Equations},
+  ISSN                     = {0022-0396},
+  Mrclass                  = {35J60 (35C08 58E05)},
+  Mrnumber                 = {3843290},
+  Owner                    = {sliu},
+  Timestamp                = {2022.10.21},
+  Url                      = {https://doi.org/10.1016/j.jde.2018.05.024}
+}
+
+@Article{MR1801054,
+  Title                    = {Infinite solvability for a class of quasilinear elliptic
+ equations in {$\bold R^N$} with {$p$}-concave and convex
+ nonlinearities},
+  Author                   = {Liu, Shi Bo and Fan, Xian Ling},
+  Journal                  = {J. Lanzhou Univ. Nat. Sci.},
+  Year                     = {2000},
+  Number                   = {5},
+  Pages                    = {10--16},
+  Volume                   = {36},
+
+  Fjournal                 = {Journal of Lanzhou University. Natural Sciences. Lanzhou Daxue
+ Xuebao. Ziran Kexue Ban},
+  ISSN                     = {0455-2059},
+  Mrclass                  = {35J70 (35D05 35J50)},
+  Mrnumber                 = {1801054},
+  Owner                    = {sliu},
+  Timestamp                = {2022.10.21}
+}
+
+@Article{MR2010750,
+  Title                    = {Infinitely many solutions for a superlinear elliptic equation},
+  Author                   = {Liu, Shi Bo and Li, Shu Jie},
+  Journal                  = {Acta Math. Sinica (Chinese Ser.)},
+  Year                     = {2003},
+  Number                   = {4},
+  Pages                    = {625--630},
+  Volume                   = {46},
+
+  Fjournal                 = {Acta Mathematica Sinica. Chinese Series},
+  ISSN                     = {0583-1431},
+  Mrclass                  = {35J60 (35J20 58E05)},
+  Mrnumber                 = {2010750},
+  Mrreviewer               = {Wenxiong Chen},
+  Owner                    = {sliu},
+  Timestamp                = {2022.10.21}
+}
+
+@Article{MR2914938,
+  Title                    = {On asymptotically linear elliptic equations in {$\Bbb R^N$}},
+  Author                   = {Shen, Zupei and Liu, Shibo},
+  Journal                  = {J. Math. Anal. Appl.},
+  Year                     = {2012},
+  Number                   = {1},
+  Pages                    = {83--88},
+  Volume                   = {392},
+
+  Doi                      = {10.1016/j.jmaa.2012.02.059},
+  Fjournal                 = {Journal of Mathematical Analysis and Applications},
+  ISSN                     = {0022-247X},
+  Mrclass                  = {35J91 (35A01 35J20)},
+  Mrnumber                 = {2914938},
+  Mrreviewer               = {Marcos Tadeu Oliveira Pimenta},
+  Owner                    = {sliu},
+  Timestamp                = {2022.10.21},
+  Url                      = {https://doi.org/10.1016/j.jmaa.2012.02.059}
+}
+
+@Article{MR2856022,
+  Title                    = {Nontrivial solutions of {K}irchhoff type problems},
+  Author                   = {Sun, Juan and Liu, Shibo},
+  Journal                  = {Appl. Math. Lett.},
+  Year                     = {2012},
+  Number                   = {3},
+  Pages                    = {500--504},
+  Volume                   = {25},
+
+  Doi                      = {10.1016/j.aml.2011.09.045},
+  Fjournal                 = {Applied Mathematics Letters. An International Journal of Rapid
+ Publication},
+  ISSN                     = {0893-9659},
+  Mrclass                  = {35J60 (35B38 35J20 35J25 58E05)},
+  Mrnumber                 = {2856022},
+  Owner                    = {sliu},
+  Timestamp                = {2022.10.21},
+  Url                      = {https://doi.org/10.1016/j.aml.2011.09.045}
+}
+
+@Article{MR3384332,
+  Title                    = {Existence and multiplicity of solutions for asymptotically
+ linear {S}chr\"{o}dinger-{K}irchhoff equations},
+  Author                   = {Wu, Yue and Liu, Shibo},
+  Journal                  = {Nonlinear Anal. Real World Appl.},
+  Year                     = {2015},
+  Pages                    = {191--198},
+  Volume                   = {26},
+
+  Doi                      = {10.1016/j.nonrwa.2015.05.010},
+  Fjournal                 = {Nonlinear Analysis. Real World Applications. An International
+ Multidisciplinary Journal},
+  ISSN                     = {1468-1218},
+  Mrclass                  = {35J60 (35A16 35J20)},
+  Mrnumber                 = {3384332},
+  Owner                    = {sliu},
+  Timestamp                = {2022.10.21},
+  Url                      = {https://doi.org/10.1016/j.nonrwa.2015.05.010}
+}
+
+@Article{MR1932702,
+  Title                    = {On an asymptotically linear elliptic {D}irichlet problem},
+  Author                   = {Zhang, Zhitao and Li, Shujie and Liu, Shibo and Feng, Weijie},
+  Journal                  = {Abstr. Appl. Anal.},
+  Year                     = {2002},
+  Number                   = {10},
+  Pages                    = {509--516},
+  Volume                   = {7},
+
+  Doi                      = {10.1155/S1085337502207046},
+  Fjournal                 = {Abstract and Applied Analysis},
+  ISSN                     = {1085-3375},
+  Mrclass                  = {35J60 (35J20 35J25)},
+  Mrnumber                 = {1932702},
+  Owner                    = {sliu},
+  Timestamp                = {2022.10.21},
+  Url                      = {https://doi.org/10.1155/S1085337502207046}
+}
+
+@Article{MR4040009,
+  Title                    = {Existence of positive ground state solutions of
+ {S}chr\"{o}dinger-{P}oisson system involving negative nonlocal
+ term and critical exponent on bounded domain},
+  Author                   = {Zheng, Wenxuan and Gan, Wenbin and Liu, Shibo},
+  Journal                  = {Bound. Value Probl.},
+  Year                     = {2019},
+  Pages                    = {Paper No. 185, 10},
+
+  Doi                      = {10.1186/s13661-019-01296-1},
+  Fjournal                 = {Boundary Value Problems},
+  ISSN                     = {1687-2762},
+  Mrclass                  = {35J57 (35B33 35J50)},
+  Mrnumber                 = {4040009},
+  Owner                    = {sliu},
+  Timestamp                = {2022.10.21},
+  Url                      = {https://doi.org/10.1186/s13661-019-01296-1}
+}
+
